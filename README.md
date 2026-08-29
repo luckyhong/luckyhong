@@ -77,7 +77,7 @@ Building pipelines for:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,objc,apple,js,ts,nodejs,python,react,git,github,vscode,xcode,linux,bash" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,js,ts,nodejs,python,react,git,github,vscode,linux,bash" alt="tech stack" />
 </p>
 
 <p align="center">
